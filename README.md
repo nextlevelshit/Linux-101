@@ -34,7 +34,7 @@ You have seen that your command line is something like a magnifiying glass on a 
 Now type in just the these two single letters: ```ls```
 
 ```bash
-pi@raspberrypi ] / $ ls
+pi@raspberrypi / $ ls
 ```
 
 The output should be exactly like here: 
