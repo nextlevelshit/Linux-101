@@ -31,11 +31,14 @@ And you can see, that the beginning of your command line changed to something si
 ## ```ls``` List content of the current directory
 You have seen that your command line is something like a magnifiying glass on a specific folder or rather directory. Every command you will type in the terminal will have its starting point from there. If you have follwed the previous parts you are currently in the root directory ```/```.
 
-Now type in just the these two letters: ```ls```
+Now type in just the these two single letters: ```ls```
 
-The output will be something like: 
 ```bash
 pi@raspberrypi ] / $ ls
+```
+
+The output should be exactly like here: 
+```bash
 bin  boot  dev  etc  home  lib  lost+found  media  mnt  opt  proc  root  run  sbin  selinux  srv  sys  tmp  usr  var
 ```
 
