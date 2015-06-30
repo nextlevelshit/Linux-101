@@ -6,9 +6,7 @@ Every new GNU/Linux user has to get to know several commands. The file system di
 ## Open the Bash
 The ```BASH``` or also known as ```TERMINAL``` is the place to be. The terminal unites your desktop, file manager, text editor and many more. Furthermore you can install or uninstall programs, configure your system, start webservers and so one. Hopefully you have recognized the fundamental super power of the secret black box calles terminal
 
-```
-If you are on your Raspbian Desktop, click on the screen icon in the upper called **LXTerminal**
-```
+*If you are on your Raspbian Desktop, click on the screen icon in the upper called **LXTerminal**.*
 
 ## First view
 
@@ -37,8 +35,8 @@ Now type in just the these two letters: ```ls```
 
 The output will be something like: 
 ```bash
-pi@raspberrypi / $ ls
+pi@raspberrypi ] / $ ls
 bin  boot  dev  etc  home  lib  lost+found  media  mnt  opt  proc  root  run  sbin  selinux  srv  sys  tmp  usr  var
 ```
 
-These terms are mostly directories. ```ls`` lists all directories and files included in the current path you are.
+These terms are mostly directories. ```ls``` lists all directories and files included in the current path you are.
