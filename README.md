@@ -4,9 +4,9 @@ Most crucial commands about Linux and the bash
 Every new GNU/Linux user has to get to know several commands. The file system differs from Windows, but is similar to the Mac OS. I will take you by the hand and show you step by step everything you have to know.
 
 ## Open the Bash
-The ```BASH``` or also known as ```TERMINAL``` is the place to be. The terminal unites your desktop, file manager, text editor and many more. Furthermore you can install or uninstall programs, configure your system, start webservers and so one. Hopefully you have recognized the fundamental super power of the secret black box calles terminal
+The ```BASH``` or also known as ```TERMINAL``` is the place to be. The terminal unites your desktop, file manager, text editor and many more. Furthermore you can install or uninstall programs, configure your system, start webservers and so one. Hopefully you have recognized the fundamental super power of the secret Pandora's box ... the so called terminal.
 
-*If you using a Raspbian Desktop, click on the black screen icon in the upper panel bar called **LXTerminal**.*
+**If you using a Raspbian Desktop, click on the black screen icon in the upper panel bar called *LXTerminal*.**
 
 ## First view
 
