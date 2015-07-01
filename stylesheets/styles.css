@@ -69,7 +69,8 @@ code, pre {
 code {
   padding: 2px;
 }
-  p > code {
+  p > code,
+  li > code {
     font-size:12px;
   }
 
