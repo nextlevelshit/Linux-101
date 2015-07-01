@@ -6,7 +6,7 @@ Every new GNU/Linux user has to get to know several commands. The file system di
 ## Open the Bash
 The ```BASH``` or also known as ```TERMINAL``` is the place to be. The terminal unites your desktop, file manager, text editor and many more. Furthermore you can install or uninstall programs, configure your system, start webservers and so one. Hopefully you have recognized the fundamental super power of the secret Pandora's box ... the so called terminal.
 
-**If you using a Raspbian Desktop, click on the black screen icon in the upper panel bar titled *LXTerminal*.**
+**If you are using a Raspbian Desktop, click on the black screen icon in the upper panel bar titled *LXTerminal*.**
 
 ## First view
 
