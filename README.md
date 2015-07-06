@@ -28,6 +28,8 @@ Change directory to / -> Bring me to the root directory
 
 And you can see, that the beginning of your command line changed to something similiar like ```pi@raspberrypi / $```. The only difference is that ```~``` changed to ```/```.
 
+But listen, this is not the only thing happening. This is fundamental stuff to navigate through you your file system. In the next chapter you will learn how to read the containing files and folders. So you can type 
+
 ## ```ls``` List content of the current directory
 You have seen that your command line is something like a magnifiying glass on a specific folder or rather directory. Every command you will type in the terminal will have its starting point from there. If you have follwed the previous parts you are currently in the root directory ```/```.
 
@@ -42,4 +44,17 @@ The output should be exactly like here:
 bin  boot  dev  etc  home  lib  lost+found  media  mnt  opt  proc  root  run  sbin  selinux  srv  sys  tmp  usr  var
 ```
 
-These terms are mostly directories. ```ls``` lists all directories and files included in the current path you are.
+These terms are mostly directories. But in general the ```ls``` command lists all directories and files included in the current path you are.
+
+Now you can add ```options``` to the command. Options are specific parameters to determine the output or rather what the command should do in detail.
+
+Every command got its own options, but some ones are quiet similiar. For example try this:
+
+```bash
+pi@raspberrypi / $ ls --help
+```
+The outout will be a handy documentation of all variaties of the prepend command. You can add ``` --help``` almost to every command. If it does not work, try ``` --man```. This will do the same work. And please, do not forget the white space and remember to hit the double dash. 
+
+## What do we learned so far?
+
+We learned the super fundamental commands ```cd``` and ```ls```. Now we are able to navigate through our file system
